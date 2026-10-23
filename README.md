@@ -1,6 +1,10 @@
 # AUCA Certificate Generator
 
 An ASP.NET WebForms application that generates official **Certificates of Good Standing** for students of the Adventist University of Central Africa (AUCA).
+<img width="1366" height="1274" alt="My ASP NET Applicatio1n - localhost" src="https://github.com/user-attachments/assets/b946f18e-fbcf-4dbf-84a7-4c669b3bd5dd" />
+<img width="1366" height="730" alt="local host 2" src="https://github.com/user-attachments/assets/93045241-3836-4c39-a62a-c221163252fe" />
+
+
 
 ## Features
 
